@@ -1,0 +1,9 @@
+Flask
+requests
+nltk
+string
+pickle
+mysql.connector
+numpy 
+pandas
+scikit-learn

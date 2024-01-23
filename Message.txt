@@ -14,11 +14,8 @@ Congratulations! You've been selected as our grand prize winner. Claim your cash
 
         Non-Spam (Ham) Email Texts:
 
-Hi, it's John. Just wanted to check in and see how you're doing.
-Reminder: Your meeting is scheduled for 2 PM today in Conference Room B.
-Your order with Amazon has been shipped. Tracking details enclosed.
-Invitation to our company's annual holiday party. RSVP requested.
-Weekly newsletter: Stay updated on the latest industry news and trends.
+    </div>
+
 Thank you for your recent purchase at our online store. Enjoy your products!
 Weather update: Expect sunshine and clear skies this weekend.
 Notification: Your monthly utility bill is now available for viewing online.
